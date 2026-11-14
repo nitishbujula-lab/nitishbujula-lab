@@ -1,6 +1,6 @@
 ## Hi there 👋 ,I'm Nitish Bujula
 
-**Business Systems & Operations Analyst** with 3+ years of experience in
+**Business Systems & Operations Analyst** with 4+ years of experience in
 supply chain, procurement, and ERP environments. I turn operational data
 into decisions: KPI frameworks, data-quality checks, and dashboards that
 stakeholders can act on.
