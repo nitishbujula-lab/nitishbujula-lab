@@ -44,7 +44,6 @@ Systems & Process      ->  Requirements, gap analysis, UAT, SAP EWM/ERP
 - M.S. Engineering Management, University of Houston-Clear Lake (2025)
 - BBA, GITAM (2020)
 
--
 <!--
 **nitishbujula-lab/nitishbujula-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
